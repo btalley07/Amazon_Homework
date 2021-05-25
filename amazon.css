@@ -1,0 +1,138 @@
+.logo {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 50px; 
+}
+
+.login{
+    margin: auto;
+    width: 400px; height: 400px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #f2f2f2;
+    border-radius: 3px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 5px; 
+}
+
+.signin{
+    padding-top: 2px;
+    font-weight: oblique;
+    font-size: 30px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+}
+
+.text{
+    color: #818181;
+    font-size: 13px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+
+}
+
+.text2{
+    color: #818181;
+    font-size: 15px;
+    font-family: "Amazon Ember"Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: #818181;
+    border-width: thin;
+    border-radius: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+.password{
+    color: #818181;
+    font-size: 13px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+    padding-left: 35px;
+    padding-top: 25px;
+}
+
+.forgot{
+    color: #0583f2;
+    font-size: 15px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+    #need to get on same line as password
+}
+
+.continue{
+    background-color: #f2b749;
+    text-align: center;
+    color: black;
+    font-size: 13px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: #818181;
+    border-width: thin;
+    border-radius: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px;
+}
+
+.help{
+    color: #0583f2;
+    font-size: 15px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+    padding-top: 15px;
+    padding-left: 30px
+}
+
+.new{
+    text-align: center;
+    color: #818181;
+    font-size: 15px;
+    font-family: "Amazon Ember"Arial, Helvetica, sans-serif;
+    padding-top: 3px;
+    
+}
+
+.create{
+    color: #818181;
+    background-color: #e8eaed;
+    font-size: 15px;
+    font-family: "Amazon Ember"Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: #818181;
+    border-width: thin;
+    border-radius: 2px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 3px; 
+    text-align: center;
+
+}
+
+.login2{
+    margin: auto;
+    width: 400px; height: 100px;
+}
+
+.solid{
+    border-bottom: solid;
+    border-color: #818181;
+    border-width: medium;
+}
+
+.bottom{
+    margin: auto;
+    width: 400px; height: 50px;
+}
+
+.conditions{
+    color: #517cff;
+    font-size: 13px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.amazon{
+    color: #818181;
+    font-size: 13px;
+    font-family: "Amazon Ember", Arial, Helvetica, sans-serif;
+    text-align: center;
